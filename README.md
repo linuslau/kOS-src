@@ -1,5 +1,7 @@
 # kOS-Src
 Reference code about a simple OS (Kernel)
+![Bootup](./shell/Bootup.jpg)
+![ShellCMD](./shell/ShellCMD.jpg)
 
 ## prepare fd and hd
 * gunzip -f -c 80m.img.gz  > 80m.img
